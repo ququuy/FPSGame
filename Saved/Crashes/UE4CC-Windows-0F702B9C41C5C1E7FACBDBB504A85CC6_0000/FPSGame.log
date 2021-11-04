@@ -1,0 +1,602 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+Stats thread started at 0.261940
+ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+Loading text-based GConfig....
+Mounting plugin MeshPainting
+Mounting plugin XGEController
+Mounting plugin Paper2D
+Mounting plugin AISupport
+Mounting plugin LiveLink
+Mounting plugin EnvironmentQueryEditor
+Mounting plugin LightPropagationVolume
+Mounting plugin AssetManagerEditor
+Mounting plugin CameraShakePreviewer
+Mounting plugin CurveEditorTools
+Mounting plugin CryptoKeys
+Mounting plugin GameplayTagsEditor
+Mounting plugin MacGraphicsSwitching
+Mounting plugin GeometryMode
+Mounting plugin FacialAnimation
+Mounting plugin GameplayCameras
+Mounting plugin DataValidation
+Mounting plugin MaterialAnalyzer
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin OodleData
+Mounting plugin PluginBrowser
+Mounting plugin SpeedTreeImporter
+Mounting plugin AnimationSharing
+Mounting plugin OodleNetwork
+Mounting plugin DatasmithContent
+Mounting plugin AlembicImporter
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin VariantManagerContent
+Mounting plugin AutomationUtils
+Mounting plugin ChaosCloth
+Mounting plugin ChaosSolverPlugin
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin BackChannel
+Mounting plugin ChaosClothEditor
+Mounting plugin ChaosNiagara
+Mounting plugin PerforceSourceControl
+Mounting plugin ChaosEditor
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin PlasticSourceControl
+Mounting plugin GitSourceControl
+Mounting plugin PixWinPlugin
+Mounting plugin PluginUtils
+Mounting plugin TextureFormatOodle
+Mounting plugin PropertyAccessNode
+Mounting plugin NullSourceCodeAccess
+Mounting plugin RiderLink
+Mounting plugin LuminPlatformFeatures
+Mounting plugin SubversionSourceControl
+Mounting plugin Niagara
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin UObjectPlugin
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin RiderSourceCodeAccess
+Mounting plugin MagicLeap
+Mounting plugin MagicLeapLightEstimation
+Mounting plugin MagicLeapMedia
+Mounting plugin MagicLeapPassableWorld
+Mounting plugin MLSDK
+Mounting plugin AndroidMedia
+Mounting plugin AvfMedia
+Mounting plugin MediaCompositing
+Mounting plugin ImgMedia
+Mounting plugin MediaPlayerEditor
+Mounting plugin TcpMessaging
+Mounting plugin WebMMedia
+Mounting plugin WmfMedia
+Mounting plugin UdpMessaging
+Mounting plugin ActorSequence
+Mounting plugin LevelSequenceEditor
+Mounting plugin MatineeToLevelSequence
+Mounting plugin TemplateSequence
+Mounting plugin LauncherChunkInstaller
+Mounting plugin OnlineSubsystemNull
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin OnlineSubsystem
+Mounting plugin AndroidPermission
+Mounting plugin ScreenshotTools
+Mounting plugin ActorLayerUtilities
+Mounting plugin AssetTags
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AudioSynesthesia
+Mounting plugin CableComponent
+Mounting plugin ArchVisCharacter
+Mounting plugin AppleImageUtils
+Mounting plugin AppleMoviePlayer
+Mounting plugin CustomMeshComponent
+Mounting plugin AudioCapture
+Mounting plugin EditableMesh
+Mounting plugin ChunkDownloader
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin GoogleCloudMessaging
+Mounting plugin GooglePAD
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin MobilePatchingUtils
+Mounting plugin OpenXR
+Mounting plugin OpenXRHandTracking
+Mounting plugin PropertyAccessEditor
+Mounting plugin OpenXREyeTracker
+Mounting plugin PhysXVehicles
+Mounting plugin PostSplashScreen
+Mounting plugin ProceduralMeshComponent
+Mounting plugin SoundFields
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SignificanceManager
+Mounting plugin Synthesis
+Mounting plugin WebMMoviePlayer
+Mounting plugin WindowsMoviePlayer
+Mounting plugin Takes
+Mounting plugin CharacterAI
+Mounting plugin GeometryCache
+Mounting plugin GeometryProcessing
+Mounting plugin GeometryCollectionPlugin
+Mounting plugin MotoSynth
+Mounting plugin OpenImageDenoise
+Mounting plugin PlanarCut
+Mounting plugin PlatformCrypto
+Mounting plugin ProxyLODPlugin
+Mounting plugin PythonScriptPlugin
+Mounting plugin SkeletalReduction
+Mounting plugin ContentBrowserClassDataSource
+Mounting plugin ContentBrowserAssetDataSource
+Mounting plugin ContentBrowserFileDataSource
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OculusVR
+Mounting plugin SteamVR
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+ - HttpProxyAddress = '127.0.0.1:10809'
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+OSS: Creating online subsystem instance for: NULL
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+OculusPlugin initialized successfully
+Failed initializing OVRPlugin 1.59.0
+Build: ++UE4+Release-4.27-CL-0
+Engine Version: 4.27.0-0+++UE4+Release-4.27
+Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+Net CL: 0
+OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-10900X CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 3090
+Compiled (64-bit): Oct 27 2021 23:39:11
+Compiled with Visual C++: 19.29.30038.01
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.27
+Command Line: 
+Base Directory: D:/Codes/UE4src/UnrealEngine/Engine/Binaries/Win64/
+Allocator: TBB
+Installed Engine Build: 0
+Number of dev versions registered: 29
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[r.VSync:0]]
+Setting CVar [[r.RHICmdBypass:0]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Engine.ini]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Engine.ini]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 64 GB [68383117312 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ConsoleVariables] File [D:/Codes/Unreal/TencentGaming/FPSGame/Saved/Config/Windows/Editor.ini]
+Computer: DESKTOP-911E3CF
+User: ququ
+CPU Page size=4096, Cores=10
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=63.7GB (64GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 145.72 MB used, 145.72 MB peak
+Process Virtual Memory: 121.95 MB used, 121.95 MB peak
+Physical Memory: 6418.70 MB used,  58796.52 MB free, 65215.22 MB total
+Virtual Memory: 134157360.00 MB used,  60368.46 MB free, 134217728.00 MB total
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: PhysX
+Using OS detected language (en-US).
+Using OS detected locale (en-US).
+No specific localization for 'en-US' exists, so the 'en' localization will be used.
+Setting process to per monitor DPI aware
+IME system deactivated.
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+Loaded GFSDK_Aftermath_Lib.x64.dll
+Failed to initialize OpenVR with code 110
+D3D11 min allowed feature level: 11_0
+D3D11 max allowed feature level: 11_0
+D3D11 adapters:
+   0. 'NVIDIA GeForce RTX 3090' (Feature Level 11_0)
+      24348/0/32607 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+   1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+      0/0/32607 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+Chosen D3D11 Adapter: 0
+Creating new Direct3DDevice
+    GPU DeviceId: 0x2204 (for the marketing name, search the web for "GPU Device Id")
+EnumDisplayDevices:
+   0. 'NVIDIA GeForce RTX 3090' (P:0 D:1)
+   1. 'NVIDIA GeForce RTX 3090' (P:1 D:1)
+   2. 'NVIDIA GeForce RTX 3090' (P:0 D:0)
+   3. 'NVIDIA GeForce RTX 3090' (P:0 D:0)
+DebugString: FoundDriverCount:4 
+    Adapter Name: NVIDIA GeForce RTX 3090
+  Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+     Driver Date: 6-21-2021
+Texture pool is 17043 MB (70% of 24348 MB)
+RHI has support for 64 bit atomics
+Async texture creation enabled
+Array index from any shader is supported
+GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+GeForceNow SDK initialized: 1
+Loaded TargetPlatform 'AllDesktop'
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'Lumin'
+Loaded TargetPlatform 'LuminClient'
+Loaded TargetPlatform 'MacNoEditor'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'WindowsNoEditor'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsClient'
+Loaded TargetPlatform 'WindowsServer'
+Building Assets For Windows
+Lib vorbis DLL was dynamically loaded.
+Oodle Texture 2.9.0 init RDO Off
+Ray tracing is disabled. Reason: r.RayTracing=0.
+Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Unreal/TencentGaming/FPSGame/Intermediate/Shaders/WorkingDirectory/8556/).
+Cleaned the shader compiler working directory 'C:/Users/ququ/AppData/Local/Temp/UnrealShaderWorkingDir/1DE275B84E655FB3587298962AB9D0D5/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 0.82s 98MB ../../../../../Unreal/TencentGaming/FPSGame/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: ../../../../../Unreal/TencentGaming/FPSGame/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/TencentGaming/FPSGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+Speed tests for ../../../Engine/DerivedDataCache took 0.01 seconds
+Performance to ../../../Engine/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1136.68MBs, RandomWriteSpeed=183.38MBs. Assigned SpeedClass 'Local'
+Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+Using FreeType 2.10.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+FAssetRegistry took 0.0053 seconds to start up
+Selected Device Profile: [Windows]
+Active device profile: [000002C6B0AB5E00][000002C6A3555240 49] Windows
+Profiles: [000002C6B0AB5E00][000002C6A3555240 49] Windows, [000002C6B0A65C00][000002C6A355D3C0 49] WindowsNoEditor, [000002C6B0AB6100][000002C6A3561540 49] WindowsServer, [000002C6B0A64400][000002C6A35656C0 49] WindowsClient, [000002C6B0AB4600][000002C6A3669840 49] IOS, [000002C6B0A66800][000002C6A366D9C0 49] iPadAir, [000002C6B0AB6D00][000002C6A3671B40 49] iPadAir2, [000002C6B0A1DE00][000002C6A3558240 49] IPadPro, [000002C6B0A1DF00][000002C6A3674280 49] iPadAir3, [000002C6B0AB5500][000002C6A36783C0 49] iPadAir4, [000002C6B0A1F700][000002C6A367C500 49] iPadMini2, [000002C6B0AB7900][000002C6A3684680 49] iPadMini3, [000002C6B0A1D600][000002C6A3688800 49] iPadMini4, [000002C6B0AB4A00][000002C6A2C30980 49] iPadMini5, [000002C6B0A45300][000002C6A2C38C40 49] iPhone6, [000002C6B0A45400][000002C6A2C34C80 49] iPodTouch6, [000002C6B0A64600][000002C6A2C40F40 49] iPhone7, [000002C6B0A65F00][000002C6A2C3CF80 49] iPodTouch7, [000002C6B0A1ED00][000002C6A2C45100 49] iPhone5S, [000002C6B0A64900][000002C6A2C49280 49] iPhone6Plus, [000002C6B0A1FF00][000002C6A2C4D400 49] iPhone6S, [000002C6B0A67300][000002C6A2C51580 49] iPhone6SPlus, [000002C6B0A44100][000002C6A2C55700 49] iPhone7Plus, [000002C6B0A1E200][000002C6A2C59880 49] iPhoneSE, [000002C6B0A47300][000002C6A2C5DA00 49] iPhone8, [000002C6B0A1DC00][000002C6A2C61B80 49] iPhone8Plus, [000002C6B0A44800][000002C6A2C64180 49] iPhoneX, [000002C6B0A1C900][000002C6A2C68300 49] iPhoneXS, [000002C6B0A64700][000002C6A3680440 49] iPhoneXSMax, [000002C6B0A1FC00][000002C6A2C6C580 49] iPhoneXR, [000002C6B0A67A00][000002C6A2C706C0 49] iPhone11, [000002C6B0A1D300][000002C6A2C78840 49] iPhone11Pro, [000002C6B0A67600][000002C6AFE429C0 49] iPhone11ProMax, [000002C6B0A1E700][000002C6AFE46B40 49] iPhoneSE2, [000002C6B0A67200][000002C6AFE4ACC0 49] iPhone12Mini, [000002C6B0A1CB00][000002C6AFE4EE40 49] iPhone12, [000002C6B0A65600][000002C6AFE52FC0 49] iPhone12Pro, [000002C6B0A1D000][000002C6AFE57140 49] iPhone12ProMax, [000002C6B0A64D00][000002C6AFE5B2C0 49] iPadPro105, [000002C6B0A1C200][000002C6AFE5F440 49] iPadPro129, [000002C6B0A64200][000002C6AFE635C0 49] iPadPro97, [000002C6B0A1F800][000002C6AFE67740 49] iPadPro2_129, [000002C6B0A66400][000002C6AFE6B8C0 49] iPad5, [000002C6B0A1F300][000002C6AFE6FA40 49] iPad6, [000002C6B0A65300][000002C6AFE73BC0 49] iPad7, [000002C6B0A1C600][000002C6AFE761C0 49] iPad8, [000002C6B0A66E00][000002C6AFE7A340 49] iPadPro11, [000002C6B0A1CA00][000002C6AFE7E4C0 49] iPadPro2_11, [000002C6B0A64500][000002C6A2C74600 49] iPadPro3_129, [000002C6B0A1D400][000002C6AFE82740 49] iPadPro4_129, [000002C6B0A65900][000002C6AFE86880 49] AppleTV, [000002C6B0A1E500][000002C6AFE8A9C0 49] AppleTV4K, [000002C6B0A66D00][000002C6AFE92B40 49] TVOS, [000002C6B0A1E800][000002C6AFE96CC0 49] Mac, [000002C6B0A65B00][000002C6AFE9AE40 49] MacClient, [000002C6B0A1EF00][000002C6AFE9EFC0 49] MacNoEditor, [000002C6B0A67800][000002C6AFEA3140 49] MacServer, [000002C6B0A1FE00][000002C6AFEA72C0 49] Linux, [000002C6B0A67000][000002C6AFEAB440 49] LinuxAArch64, [000002C6B0A1F100][000002C6AFEAF5C0 49] LinuxNoEditor, [000002C6B0A65D00][000002C6AFEB3740 49] LinuxAArch64NoEditor, [000002C6B0A1C800][000002C6AFEB78C0 49] LinuxClient, [000002C6B0A67400][000002C6AFEBBA40 49] LinuxAArch64Client, [000002C6B0A1EE00][000002C6AFEBFBC0 49] LinuxServer, [000002C6B0A66900][000002C6AFEC21C0 49] LinuxAArch64Server, [000002C6B0A1CE00][000002C6AFEC6340 49] Android, [000002C6B0A66A00][000002C6AFECA4C0 49] Android_Low, [000002C6B0A1D100][000002C6AFECE640 49] Android_Mid, [000002C6B0A66F00][000002C6AFE8E780 49] Android_High, [000002C6B0A1F200][000002C6AFED28C0 49] Android_Default, [000002C6B0A66B00][000002C6AFED6A00 49] Android_Adreno4xx, [000002C6B0A1E600][000002C6AFEDAB40 49] Android_Adreno5xx_Low, [000002C6B0A66C00][000002C6AFEE2CC0 49] Android_Adreno5xx, [000002C6B0A1F600][000002C6AFEE6E40 49] Android_Adreno6xx, [000002C6B0A67100][000002C6AFEEAFC0 49] Android_Adreno6xx_Vulkan, [000002C6B0A1C100][000002C6AFEEF140 49] Android_Mali_T6xx, [000002C6B0AB7F00][000002C6AFEF32C0 49] Android_Mali_T7xx, [000002C6B0A45A00][000002C6AFEF7440 49] Android_Mali_T8xx, [000002C6B0AB5300][000002C6AFEFB5C0 49] Android_Mali_G71, [000002C6B0A45B00][000002C6AFEFF740 49] Android_Mali_G72, [000002C6B0AB6400][000002C6AFF038C0 49] Android_Mali_G72_Vulkan, [000002C6B0A44600][000002C6AFF07A40 49] Android_Mali_G76, [000002C6B0AB4900][000002C6AFF0BBC0 49] Android_Mali_G76_Vulkan, [000002C6B0A45800][000002C6AFF0E1C0 49] Android_Mali_G77, [000002C6B0AB4400][000002C6AFF12340 49] Android_Mali_G77_Vulkan, [000002C6B0A47800][000002C6AFF164C0 49] Android_Mali_G78, [000002C6B0AB6B00][000002C6AFF1A640 49] Android_Mali_G78_Vulkan, [000002C6B0A44400][000002C6AFF1E7C0 49] Android_Mali_G710, [000002C6B0AB7D00][000002C6AFF22940 49] Android_Mali_G710_Vulkan, [000002C6B0A46900][000002C6AFEDEA80 49] Android_Vulkan_SM5, [000002C6B0AB7400][000002C6AFF26BC0 49] Android_PowerVR_G6xxx, [000002C6B0A47900][000002C6AFF2AD00 49] Android_PowerVR_GT7xxx, [000002C6B0AB6200][000002C6AFF32E80 49] Android_PowerVR_GE8xxx, [000002C6B0A46D00][000002C6AFF37000 49] Android_PowerVR_GM9xxx, [000002C6B0AB6A00][000002C6AFF3B180 49] Android_PowerVR_GM9xxx_Vulkan, [000002C6B0A47400][000002C6AFF3F300 49] Android_TegraK1, [000002C6B0AB4200][000002C6AFF43480 49] Android_Unknown_Vulkan, [000002C6B0A46100][000002C6AFF47600 49] Lumin, [000002C6B0AB5C00][000002C6AFF4B780 49] Lumin_Desktop, [000002C6B0A47C00][000002C6AFF4F900 49] HoloLens, 
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+FPSGame 1.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4290881765)
+Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+PokeAHoleMaterial loaded successfully
+17164 objects as part of root set at end of initial load.
+4298336 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Niagara Debugger Client Initialized | Session: F53DBFBB4A235EA70DE7CABD3DFD5360 | Instance: D212968A4835B8131720A280CD027C7A (DESKTOP-911E3CF-8556).
+Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+PNG Warning: Duplicate iCCP chunk
+PNG Warning: Duplicate iCCP chunk
+Initializing TcpMessaging bridge
+Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+Using Python 3.7.7
